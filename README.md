@@ -1,4 +1,4 @@
-# Welcome to my Github page!
+# Welcome!
 Hi, I'm LincolnLandForensics, I am tasked with all things digital forensics. My goal is to automate myself out of work, or at least make tasks easier! I base my sharing on FredFactor.com, a book about bringing value to others without needing a reward in return.
 
 # Contact
